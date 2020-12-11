@@ -1,0 +1,17 @@
+var food = "cheese"
+
+var isDelicious = true
+
+var food = "pineapple"
+
+var num2 = 13
+
+var num7 = 2
+
+var quotient = (num2 / num7)
+
+var songs = [""]
+
+songs.shift
+
+food.length
