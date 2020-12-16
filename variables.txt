@@ -1,17 +1,17 @@
-var food = "cheese"
+var food = "cheese";
 
-var isDelicious = true
+var isDelicious = true;
 
-var food = "pineapple"
+food = "pineapple";
 
-var num2 = 13
+var num2 = 13;
 
-var num7 = 2
+var num7 = 2;
 
-var quotient = (num2 / num7)
+var quotient = (num2 / num7);
 
-var songs = [""]
+var songs = ["Hey Jude", "Blackbird", "Yellow Submarine"];
 
-songs.shift
+songs.shift();
 
-food.length
+food.length;
